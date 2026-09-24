@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+Figure*.png
+results_table.csv
+results/*.pptx
+results/_bg_assets/
